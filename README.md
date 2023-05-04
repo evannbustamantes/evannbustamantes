@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### My name is Evann Bustamantes, I am a student in material science engineering at UNT 
 <!--
 **evannbustamantes/evannbustamantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
